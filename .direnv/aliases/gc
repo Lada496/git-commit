@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+PATH=/Users/murayamayuko/.nvm/versions/node/v8.1.0/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/murayamayuko/.nvm/versions/node/v8.1.0/bin:/opt/homebrew/bin:/opt/homebrew/sbin
+git commit $@
